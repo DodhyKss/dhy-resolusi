@@ -3,3 +3,5 @@
 - Fokus ke front end 
 - Harus bisa javascript
  ^ node js
+- structur data
+
