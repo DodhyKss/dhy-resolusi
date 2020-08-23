@@ -2,3 +2,4 @@
 - Konsisten belajar pemrograman
 - Fokus ke front end 
 - Harus bisa javascript
+ ^ node js
