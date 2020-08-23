@@ -2,3 +2,6 @@
 - Konsisten belajar pemrograman
 - Fokus ke front end 
 - Harus bisa javascript
+ ^ react
+ ^ node js
+- structur data
